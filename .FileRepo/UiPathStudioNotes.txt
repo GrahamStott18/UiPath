@@ -1,0 +1,33 @@
+Keyboard Shortcuts
+
+File Management:
+Ctrl + Shift + N		- Creates a new BLANK PROCESS
+Ctrl + C				- Copies a file from the PROJECT panel into clipboard
+Ctrl + V				- Paste a copied file anywhere in the tree
+Ctrl + O				- Open a previously created workflow (The .xaml or project.json file)
+Ctrl + L				- Opens the folder where the Log files are stored
+Ctrl + S 				- Saves the currently opened workflow 
+Ctrl + Shift + S		- Saves ALL open workflows  
+Ctrl + V 				- Pastes a file from the clipboard into the PROJECT panel  
+Ctrl +  
+Ctrl +  
+Ctrl + 
+Ctrl +  
+Ctrl +  
+Ctrl +  
+Ctrl +  
+Ctrl +  
+
+
+
+
+
+
+
+
+
+
+
+
+vbCrLf  - Will let you start a new line while during an expression. Basically like pressing ENTER while displaying expression. 
+		- Represents a carriage return character, for print and display functions (In Visual Basic) 
